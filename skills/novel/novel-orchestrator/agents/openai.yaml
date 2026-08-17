@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说总编排"
+  short_description: "编排中文长篇小说的策划、创作、连续性审校与全稿修订"
+  default_prompt: "使用 $novel-orchestrator 规划、创作并审校一部长篇中文小说。"
