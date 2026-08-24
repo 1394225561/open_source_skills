@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinema Studio Production"
+  short_description: "Route cinematic AI production across specialist skills"
+  default_prompt: "Use $cinema-studio-production to route this cinematic AI production request and deliver the required outputs."

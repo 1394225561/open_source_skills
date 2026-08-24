@@ -1,0 +1,4 @@
+interface:
+  display_name: "Acting for AI Video"
+  short_description: "Write observable character performance for AI video"
+  default_prompt: "Use $acting-for-ai-video to design or improve the character performance in this AI video scene."

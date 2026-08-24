@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 Director"
+  short_description: "Orchestrate production-ready MiniMax H3 prompts"
+  default_prompt: "Use $minimax-h3-director to orchestrate this request and produce an official-structure MiniMax H3 prompt."

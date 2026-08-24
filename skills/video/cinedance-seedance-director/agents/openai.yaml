@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinedance Seedance Director"
+  short_description: "Direct production-ready cinematic Seedance prompts"
+  default_prompt: "Use $cinedance-seedance-director to turn this scene into a production-ready Seedance prompt."

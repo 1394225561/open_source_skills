@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lira Image Prompts"
+  short_description: "Route and optimize cinematic AI image prompts"
+  default_prompt: "Use $lira-image-prompts to create or refine a production-ready AI image prompt."
