@@ -1,0 +1,4 @@
+interface:
+  display_name: "自媒体内容工作室"
+  short_description: "从赛道定位到发布成品、版本留痕与数据复盘的完整工作流"
+  default_prompt: "使用 $we-media-content-studio 为我的赛道建立内容工作区，并从选题开始完成一次发布闭环。"
