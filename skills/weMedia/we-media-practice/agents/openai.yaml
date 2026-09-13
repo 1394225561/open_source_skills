@@ -1,4 +1,4 @@
 interface:
   display_name: "副业实操与成长陪练"
-  short_description: "结合个人问答基线，以有限商业实验、证据复盘和持续记录推进副业与能力成长"
-  default_prompt: "使用 $we-media-practice，读取我的实操记录，结合当前约束帮我完成下一项能获得真实反馈的行动；没有记录时一次只问一个关键问题。"
+  short_description: "结合个人基线，以有限实验、中断恢复、成长练习和长期复盘推进副业与持续经营"
+  default_prompt: "使用 $we-media-practice，读取我的实操记录，结合当前约束推进副业实验或成长练习；中断时先核对变化，没有记录时一次只问一个关键问题。"
