@@ -43,6 +43,12 @@ npx skills add 1394225561/open_source_skills \
 | `lira-image-prompts` | 编写和优化电影前期制作资产及图像编辑的 AI 图像提示词 |
 | `minimax-h3-director` | 编排 MiniMax H3 的 T2VA、I2VA、FL2VA、L2VA 和 Ref2VA 电影视频提示词 |
 
+### 创业与经营
+
+| Skill | 说明 |
+| --- | --- |
+| `business-experiment-coach` | 用客户证据和有投入上限的小实验指导创业、经营诊断、价值表达、渠道选择与同行对标，适用于实体、服务、产品和内容经营 |
+
 仓库按领域分类存放 Skill，例如小说相关 Skill 位于 `skills/novel/`。分类目录只用于组织源码，不改变 Skill 名称或安装方式。
 
 ## 兼容性
